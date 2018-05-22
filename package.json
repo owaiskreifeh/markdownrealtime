@@ -16,5 +16,9 @@
     "markdown"
   ],
   "author": "Owais Majid",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  }
 }
